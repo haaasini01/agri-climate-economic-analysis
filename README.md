@@ -128,8 +128,8 @@ Two-Way Fixed Effects (TWFE) Panel Regression
 ## Installation & Usage
 
 ```id="jv8r2p"
-git clone https://github.com/your-username/economic-cost-of-climate-volatility.git
-cd economic-cost-of-climate-volatility
+git clone https://github.com/haaasini01/agri-climate-economic-analysis.git
+cd agri-climate-economic-analysis
 pip install -r requirements.txt
 jupyter notebook
 ```
